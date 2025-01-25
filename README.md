@@ -1,2 +1,3 @@
 # 13220-DSBDA
-college work for the DSBDA lab practical.
+College work for the DSBDA LAB practical.
+Macking practice of given assignments and solving problems related to the DSBDA LAB
